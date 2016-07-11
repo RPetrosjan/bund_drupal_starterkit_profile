@@ -1,0 +1,10 @@
+uuid: 60d6557d-88f8-49d0-8437-f71fbb247cfb
+langcode: fr
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: JFMeuZQa4EsNP464PZh3SXPPj6M6CbizmjbVJJpNnYM
+id: treecrumb-fr
+label: 'Treecrumb FR'
+description: ''
+locked: false

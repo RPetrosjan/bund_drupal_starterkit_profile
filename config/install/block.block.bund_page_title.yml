@@ -1,0 +1,20 @@
+uuid: e2701204-537c-4e8b-be00-e778d0cbf11a
+langcode: en
+status: true
+dependencies:
+  theme:
+    - bund_drupal_starterkit_theme
+_core:
+  default_config_hash: a1OhQG5lbr8eItv2PJk2dw_otygOt6CRaj_mNYgGHI0
+id: bund_drupal_starterkit_theme_page_title
+theme: bund_drupal_starterkit_theme
+region: content
+weight: -8
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  provider: core
+  label_display: '0'
+visibility: {  }

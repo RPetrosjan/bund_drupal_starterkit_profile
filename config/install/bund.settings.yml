@@ -1,0 +1,9 @@
+features:
+  favicon: 1
+logo:
+  use_default: 1
+  path: ''
+favicon:
+  use_default: 0
+  path: themes/bund_drupal_starterkit_theme/assets/img/ico/favicon.ico
+  mimetype: image/vnd.microsoft.icon

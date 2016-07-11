@@ -1,0 +1,25 @@
+uuid: f159fbb3-1a3e-4efe-8d36-5445298a64b1
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - bund_drupal_starterkit_theme
+_core:
+  default_config_hash: 3ygjYWtqXy0durmlE1-ynY-p97CS4LjK3dBGOZ2ztzk
+id: bund_drupal_starterkit_theme_branding
+theme: bund_drupal_starterkit_theme
+region: header_middle
+weight: -7
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Site branding'
+  provider: system
+  label_display: '0'
+  use_site_logo: true
+  use_site_name: true
+  use_site_slogan: true
+visibility: {  }

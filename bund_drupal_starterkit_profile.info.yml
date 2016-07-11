@@ -1,0 +1,49 @@
+name: Bund profile
+type: profile
+description: Drupal installation to start a Bund website
+core: 8.x
+
+dependencies:
+  - node
+  - history
+  - block
+  - breakpoint
+  - ckeditor
+  - color
+  - config
+  - comment
+  - contextual
+  - contact
+  - menu_link_content
+  - datetime
+  - block_content
+  - quickedit
+  - editor
+  - help
+  - image
+  - menu_ui
+  - options
+  - path
+  - page_cache
+  - dynamic_page_cache
+  - taxonomy
+  - dblog
+  - search
+  - shortcut
+  - toolbar
+  - field_ui
+  - file
+  - rdf
+  - views
+  - views_ui
+  - tour
+  - automated_cron
+  - admin_toolbar
+  - admin_toolbar_tools
+  - config_translation
+  - content_translation
+  - locale
+  - language
+themes:
+  - seven
+  - bund_drupal_starterkit_theme

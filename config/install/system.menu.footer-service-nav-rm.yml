@@ -1,0 +1,10 @@
+uuid: 7038fddf-1db7-4a8a-8b8f-fb2cf66d758a
+langcode: rm
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8UstPrLY_iC_e7VcWuLPnvaoa_KMc4KqFlalpUBaab8
+id: footer-service-nav-rm
+label: 'Footer service navigation RM'
+description: ''
+locked: false

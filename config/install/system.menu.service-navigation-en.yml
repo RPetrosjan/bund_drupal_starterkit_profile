@@ -1,0 +1,10 @@
+uuid: 6c2f0421-c68f-40c9-8a6e-d765e6e92798
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ZzlGd6ILv7pq2dDDb3iy91FekLh2QyX5Rh3oroyXpbQ
+id: service-navigation-en
+label: 'Service navigation EN'
+description: ''
+locked: false

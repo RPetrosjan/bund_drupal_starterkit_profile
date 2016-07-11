@@ -1,0 +1,34 @@
+uuid: 236b4910-6334-4a17-8318-3021716655f0
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.service-navigation-it
+  module:
+    - language
+    - system
+  theme:
+    - bund_drupal_starterkit_theme
+_core:
+  default_config_hash: erXIyU7-KmpvbLElgbMHX9P4m6FiQ5_9k63d9G9sCoE
+id: servicenavigationit
+theme: bund_drupal_starterkit_theme
+region: header_services
+weight: -7
+provider: null
+plugin: 'system_menu_block:service-navigation-it'
+settings:
+  id: 'system_menu_block:service-navigation-it'
+  label: 'Service navigation IT'
+  provider: system
+  label_display: '0'
+  level: 1
+  depth: 0
+visibility:
+  language:
+    id: language
+    langcodes:
+      it: it
+    negate: false
+    context_mapping:
+      language: '@language.current_language_context:language_interface'

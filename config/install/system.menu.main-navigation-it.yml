@@ -1,0 +1,10 @@
+uuid: 275cca8a-6062-4ecb-848d-d80aa299bc7f
+langcode: it
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: tCGdcoKLjjlq9IQB92wRm2cGnZZG-AOKHLFytA5mj5Q
+id: main-navigation-it
+label: 'Main navigation IT'
+description: ''
+locked: false

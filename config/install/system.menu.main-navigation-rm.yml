@@ -1,0 +1,10 @@
+uuid: e4621509-3de1-46be-ae1c-abb789f79d86
+langcode: rm
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: mNHW8LVavNysvF-x1sWzjYDLYe-Lj7FfgrTdau0hyWg
+id: main-navigation-rm
+label: 'Main navigation RM'
+description: ''
+locked: false

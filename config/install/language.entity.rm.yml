@@ -1,0 +1,11 @@
+uuid: 958be07e-a5d9-4a4e-b903-3bd3756aca0f
+langcode: rm
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: SFeHNvUDwQD36uW7f7o4oFWdQypFPfZfW3eQapycJhA
+id: rm
+label: Rumantsch
+direction: ltr
+weight: -7
+locked: false

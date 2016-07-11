@@ -1,0 +1,10 @@
+uuid: 98e9fcaa-a07d-4ab0-84fd-9250a8f9cc09
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Nxym5eOxv5gPCwaGyhN6HeD-XPsmaND4t7Gn5YS-rak
+id: treecrumb-en
+label: 'Treecrumb EN'
+description: ''
+locked: false

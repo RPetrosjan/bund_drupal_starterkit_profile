@@ -1,0 +1,10 @@
+uuid: 60501b6b-d946-4825-bef6-ca5efd657adc
+langcode: it
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8GpGXcl490KNnLvPS7cUBa4053nJE9cdzmjzdM0Ny9Q
+id: service-navigation-it
+label: 'Service navigation IT'
+description: ''
+locked: false

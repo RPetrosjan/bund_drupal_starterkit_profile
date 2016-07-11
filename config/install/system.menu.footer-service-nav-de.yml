@@ -1,0 +1,10 @@
+uuid: 5e7c4760-28fd-4d37-bab8-9652e5802f2f
+langcode: de
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: WLtCnYz0HvdHI5rbHeYYmE68okCBhdrSvRhpgEabkNQ
+id: footer-service-nav-de
+label: 'Footer service navigation DE'
+description: ''
+locked: false

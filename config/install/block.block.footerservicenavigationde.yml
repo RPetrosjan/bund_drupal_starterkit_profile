@@ -1,0 +1,34 @@
+uuid: 7fe8209f-e071-4a89-8188-fcd05345a622
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.footer-service-nav-de
+  module:
+    - language
+    - system
+  theme:
+    - bund_drupal_starterkit_theme
+_core:
+  default_config_hash: veFIUIxL5UdTlWL4hAQMBK_qH_AJi-1CP-3mA_okuco
+id: footerservicenavigationde
+theme: bund_drupal_starterkit_theme
+region: footer
+weight: -9
+provider: null
+plugin: 'system_menu_block:footer-service-nav-de'
+settings:
+  id: 'system_menu_block:footer-service-nav-de'
+  label: 'Footer service navigation DE'
+  provider: system
+  label_display: '0'
+  level: 1
+  depth: 0
+visibility:
+  language:
+    id: language
+    langcodes:
+      de: de
+    negate: false
+    context_mapping:
+      language: '@language.current_language_context:language_interface'

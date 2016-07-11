@@ -1,0 +1,10 @@
+uuid: 0f8d1545-2c44-4776-b9ab-814dddd26124
+langcode: rm
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: pS1n0ok7RHfE8sL78eve7t3w2dJc1yxv0AABwTO2HNU
+id: treecrumb-rm
+label: 'Treecrumb RM'
+description: ''
+locked: false

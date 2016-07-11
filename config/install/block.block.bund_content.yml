@@ -1,0 +1,22 @@
+uuid: 5aa56cc5-9ddd-4429-bf00-eca0711d0256
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - bund_drupal_starterkit_theme
+_core:
+  default_config_hash: zAv28X7tHHLPvIvFuJcIPaI2Bi1QGfbLKO92itmFweY
+id: bund_drupal_starterkit_theme_content
+theme: bund_drupal_starterkit_theme
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  provider: system
+  label_display: '0'
+visibility: {  }

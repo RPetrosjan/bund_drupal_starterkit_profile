@@ -1,0 +1,32 @@
+uuid: b801b448-cc28-4c58-b377-b8b25c72e535
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.service-navigation-de
+  module:
+    - language
+    - system
+  theme:
+    - bund_drupal_starterkit_theme
+id: servicenavigationde_2
+theme: bund_drupal_starterkit_theme
+region: footer
+weight: -14
+provider: null
+plugin: 'system_menu_block:service-navigation-de'
+settings:
+  id: 'system_menu_block:service-navigation-de'
+  label: 'Service navigation DE'
+  provider: system
+  label_display: '0'
+  level: 1
+  depth: 0
+visibility:
+  language:
+    id: language
+    langcodes:
+      de: de
+    negate: false
+    context_mapping:
+      language: '@language.current_language_context:language_interface'

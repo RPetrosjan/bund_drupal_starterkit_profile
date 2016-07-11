@@ -1,0 +1,13 @@
+{
+    "name": "liip/bund_drupal_starterkit_profile",
+    "description": "Drupal 8 starterkit profile for the Swiss Government",
+    "type": "drupal-profile",
+    "license": "AGPL-3.0",
+    "authors": [
+        {
+            "name": "Karine Chor",
+            "email": "karine.chor@liip.ch"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,26 @@
+uuid: 68a5f26c-32d5-4183-bd3b-9a5ba3245993
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.treecrumb-it
+  module:
+    - system
+  theme:
+    - bund_drupal_starterkit_theme
+_core:
+  default_config_hash: 37Q6i-wXkwCz8z-Hwr-H_ehu1f9JZvwHmHQJaRUbihQ
+id: treecrumbit
+theme: bund_drupal_starterkit_theme
+region: header_treecrumb
+weight: -10
+provider: null
+plugin: 'system_menu_block:treecrumb-it'
+settings:
+  id: 'system_menu_block:treecrumb-it'
+  label: 'Treecrumb IT'
+  provider: system
+  label_display: '0'
+  level: 1
+  depth: 0
+visibility: {  }

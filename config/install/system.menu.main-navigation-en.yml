@@ -1,0 +1,10 @@
+uuid: e067c10b-f6bc-4a6b-b069-c27b3b80c7fb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ZLEdv1cDqMAGuqDKj7RUmDVQhmAk8AjHsFXQlXHqfm8
+id: main-navigation-en
+label: 'Main navigation EN'
+description: ''
+locked: false

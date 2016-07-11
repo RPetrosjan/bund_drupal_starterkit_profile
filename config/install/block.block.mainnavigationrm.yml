@@ -1,0 +1,34 @@
+uuid: 9e11aec0-4fe6-4978-b5ea-332fc5c1634a
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.main-navigation-rm
+  module:
+    - language
+    - system
+  theme:
+    - bund_drupal_starterkit_theme
+_core:
+  default_config_hash: DUKaXHeWh2k-09rIjxdSvxhHtZbF1W7cabGFsdW_bM0
+id: mainnavigationrm
+theme: bund_drupal_starterkit_theme
+region: primary_menu
+weight: -8
+provider: null
+plugin: 'system_menu_block:main-navigation-rm'
+settings:
+  id: 'system_menu_block:main-navigation-rm'
+  label: 'Main navigation RM'
+  provider: system
+  label_display: '0'
+  level: 1
+  depth: 0
+visibility:
+  language:
+    id: language
+    langcodes:
+      rm: rm
+    negate: false
+    context_mapping:
+      language: '@language.current_language_context:language_interface'

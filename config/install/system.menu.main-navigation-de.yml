@@ -1,0 +1,10 @@
+uuid: 33b6d895-d726-4ed9-804e-dfc3e661d380
+langcode: de
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: EmyR9mkd3eraEMOHa-Xcqo65lQsjQdK9i6rDZXZ170E
+id: main-navigation-de
+label: 'Main navigation DE'
+description: ''
+locked: false

@@ -1,0 +1,11 @@
+uuid: f1d262ec-832b-4116-9c00-ab093a9ad2ff
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: fQTsSqzO1G1I9JXfHVmNolZGMDFjDNgZktkBzexChZk
+id: fr
+label: French
+direction: ltr
+weight: -9
+locked: false

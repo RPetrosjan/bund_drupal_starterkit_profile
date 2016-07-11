@@ -1,0 +1,34 @@
+uuid: 95fc49d6-914c-4098-b9f1-712c9e97d0fa
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.treecrumb-fr
+  module:
+    - language
+    - system
+  theme:
+    - bund_drupal_starterkit_theme
+_core:
+  default_config_hash: 1MyavnSE6FG7rpoyQJo6yV91qCJSYyq1L_194LlMNmQ
+id: treecrumbfr
+theme: bund_drupal_starterkit_theme
+region: header_treecrumb
+weight: -11
+provider: null
+plugin: 'system_menu_block:treecrumb-fr'
+settings:
+  id: 'system_menu_block:treecrumb-fr'
+  label: 'Treecrumb FR'
+  provider: system
+  label_display: '0'
+  level: 1
+  depth: 0
+visibility:
+  language:
+    id: language
+    langcodes:
+      fr: fr
+    negate: false
+    context_mapping:
+      language: '@language.current_language_context:language_interface'

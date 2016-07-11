@@ -1,0 +1,10 @@
+uuid: 9dd3eaf4-bbcf-4cad-a8ec-309ce0344de6
+langcode: de
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: WD7_L6adiMhTR7R8Qy3PdEtIPlID9NOdeCFENZQCRUI
+id: service-navigation-de
+label: 'Service navigation DE'
+description: ''
+locked: false

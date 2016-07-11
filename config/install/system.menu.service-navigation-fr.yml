@@ -1,0 +1,10 @@
+uuid: 69997389-e75b-4b52-8538-4d8480b2e441
+langcode: fr
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: WiW4iyZIUqcfnIS9p8Dn8fYHibzh5ne61Hg1leVzv-k
+id: service-navigation-fr
+label: 'Service navigation FR'
+description: ''
+locked: false

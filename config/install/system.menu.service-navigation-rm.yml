@@ -1,0 +1,10 @@
+uuid: a516b67c-3977-4cd7-8839-2326018fd579
+langcode: rm
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Zt2a7syMu51kCoa794ad8PoK9fEdZRigQqr_RdPhEaY
+id: service-navigation-rm
+label: 'Service navigation RM'
+description: ''
+locked: false
